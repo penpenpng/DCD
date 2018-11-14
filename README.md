@@ -1,3 +1,9 @@
+[SSoulaimane](https://github.com/SSoulaimane)氏によるUFCSサポート実装を現時点での最新版DCD(v0.9.13)で動作するようにしたものです。
+
+This DCD-fork supports UFCS suggestions feature (implemented by [SSoulaimane](https://github.com/SSoulaimane)). The original DCD version is 0.9.13.
+
+---
+
 # DCD [![CI status](https://travis-ci.org/dlang-community/DCD.svg?branch=master)](https://travis-ci.org/dlang-community/DCD/)
 The D Completion Daemon is an auto-complete program for the D programming language.
 
